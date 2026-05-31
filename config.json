@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailparse",
+        "uuid": 22577514,
+        "checksum": "bjwj3v"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
